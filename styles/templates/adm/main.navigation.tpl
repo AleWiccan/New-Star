@@ -17,7 +17,7 @@
     </script>
     <ul class="navbar-nav px-3">
         <li class="nav-item text-nowrap">
-            <a class="nav-link" href="/admin.php?page=logout">{$LNG.lm_logout}</a>
+            <a class="nav-link" href="admin.php?page=logout">{$LNG.lm_logout}</a>
         </li>
     </ul>
 </nav>
