@@ -1,18 +1,18 @@
 # New-Star
 
-New-Star es un juego de navegador web. El objetivo de este trabajo es un completo reinicio del 2Moons: Un nuevo diseÒo, nuevo modo de juego y mucho m·s. Este juego de navegador esta basado en el framework de [2Moons](https://github.com/jkroepke/2Moons). 
+New-Star es un juego de navegador web. El objetivo de este trabajo es un completo reinicio del 2Moons: Un nuevo dise√±o, nuevo modo de juego y mucho m√°s. Este juego de navegador esta basado en el framework de [2Moons](https://github.com/jkroepke/2Moons). 
 
 ## Website de New-Star
 
-Do you want to know more about us? Then go to our [website](https://yaro2709.github.io/New-Star-website).
+Quieres conocer mas de nosotros? Ve al [Sitio Web](https://yaro2709.github.io/New-Star-website).
 
-## Galleria de New-Star
+## Galeria de New-Star
 
-There is also a [gallery](https://yaro2709.github.io/New-Star-website/gallery) of the project so that anyone can visually familiarize themselves with the project.
+Tenemos una [galeria](https://yaro2709.github.io/New-Star-website/gallery) de el proyecto para que te familiarices con el entorno.
 
 ## Comunidad de New-Star
 
-Want to keep abreast of the latest developments? Then come visit us on [Discord](https://discord.gg/pu7faEb), [Telegram](https://t.me/newstarnet), [Facebook](https://www.facebook.com/groups/newstarnet), [Instagram](https://www.instagram.com/newstarnet)!
+Quieres enterarte de los ultimos cambios? Visitanos en [Discord](https://discord.gg/pu7faEb), [Telegram](https://t.me/newstarnet), [Facebook](https://www.facebook.com/groups/newstarnet), [Instagram](https://www.instagram.com/newstarnet)!
 
 ## Estructura del Repositorio
 
@@ -39,7 +39,7 @@ Want to keep abreast of the latest developments? Then come visit us on [Discord]
   - fonts
   - images
  
-## InstalaciÛn Local
+## Instalaci√≥n Local
 
 - Clona la repo
 - Instala los componentes: `apt install apache2 php7.3 php7.3-gd php7.3-fpm php7.3-mysql php7.3-curl php-ds libapache2-mod mysql-server`
