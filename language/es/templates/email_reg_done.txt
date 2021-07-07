@@ -1,9 +1,0 @@
-Hola {USERNAME},
-
-
-Gracias por registrarte en {GAMENAME}
-
-Esperamos que disfrute el juego!
-
-Sin más,
-El equipo de {GAMENAME}
