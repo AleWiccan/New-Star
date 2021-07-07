@@ -4,7 +4,7 @@
     <div class="jumbotron">
         <h1>{$descHeader}</h1>
         <p class="lead">{$descText}</p>
-        <a class="btn btn-lg btn-primary" href="/index.php?page=register" role="button">{$LNG.buttonRegister} --></a>
+        <a class="btn btn-lg btn-primary" href="index.php?page=register" role="button">{$LNG.buttonRegister} --></a>
     </div>
     <div class="album pt-3">
         <div class="row">
@@ -73,7 +73,7 @@
                         <h5 class="card-title">{$LNG.nav_screens}</h5>
                         <p class="card-text">{$LNG.loginScreens}</p>
                         <div style="text-align: right">
-                            <a href="/index.php?page=screens">
+                            <a href="index.php?page=screens">
                                 <button type="button" class="btn btn-success">{$LNG.nav_screens}</button>
                             </a>
                         </div>
@@ -116,7 +116,7 @@
                         <h5 class="card-title">{$LNG.nav_news}</h5>
                         {if $is_news}<p class="card-text">{$news}</p>{/if}
                         <div style="text-align: right">
-                            <a href="/index.php?page=news">
+                            <a href="index.php?page=news">
                                 <button type="button" class="btn btn-success">{$LNG.nav_news}</button>
                             </a>
                         </div>
